@@ -1,1 +1,10 @@
 # OpenSesame_Internship_Project
+
+## How do you see OpenSesame fit into your career journey or long term goals?
+As a passioante young Computer Science student, in todays day in age it seems as though knowing how to work with AI is what is going to seperate the succesful from the unsuccesful. OpenSesame is a company that devlopes AI-powered products tthat help organizations upskill their people, transform performance, and fuel long-term growth. utilizing the power of AI to help people is something that I am very passionate about and the program OpenSesame offers is what is going to help me get closer and closer to this goal.
+
+## What Strengths, skills, or perspectives will you bring to OpenSesame to make an impact and contribute to our mission?
+To start off with AI related expierence I currently work at a generative AI startup called AskEden where we are seeking to reveolution the way students use AI to study in school. Secondly, I have multiple research projects involving working with LLMs and MLs models so I come from a string background coming into this position. Additionally, before I was a CS major I was a Civil Engineering major anand had a Civil Engineering Internship at the Port of Seattle, so I come from a strng, and creative engineering background. This background taught me incredible team building habits, collaboratorive work habits, and consistent work ethic.
+
+## What excites you most about AI, and how do you think it will shape the future of learning and work?
+What excites me most regarding AI is that the sky is currently the limit for the capabilities AI is able to achieve. That is why I want to center my career around it because of what capacities it holds. I believe it can only better and make positive impacts for the future of learning and work because if used in a positive way AI can enhance students learning, it can enhance the and make the work lives of people much more efficent. I dont see it as a tool that will just do all the work but rather a tool that will aid in the efficency and production of many people in the work force and students.
